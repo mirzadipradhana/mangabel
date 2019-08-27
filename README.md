@@ -1,2 +1,0 @@
-# mangabel
-Created with CodeSandbox
