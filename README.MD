@@ -26,8 +26,11 @@ Your tasks, should you choose to accept them:
 
 4. Bonus points - Implement _optimistic rendering_ (user can see go to detail page content without loading the page) on the detail page that you create on step (2).
 
-## Rules <a name="pookie"></a>
+## Rules 
 
 1. You are required to use the existing graphql endpoint; don't switch/change graphql endpoint.
 2. You can only use the existing dependencies that already defined; don't add new dependency to the app other than the already specified.
 
+## What's Next
+
+You will have further discussion related to your tasks in an interview session. 
